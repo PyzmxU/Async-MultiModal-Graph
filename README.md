@@ -1,6 +1,6 @@
 # Async-MultiModal-Graph
 多模态 Web 智能体
-# 📸 Shutter-Agent: 工业级全异步多模态 Web 智能体
+# 📸 Async-MultiModal-Graph: 工业级全异步多模态 Web 智能体
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-State_Machine-orange.svg)](https://python.langchain.com/docs/langgraph)
@@ -36,5 +36,5 @@
 ### 1. 环境准备
 建议使用 Conda 创建隔离环境：
 ```bash
-conda create -n shutter_env python=3.10
-conda activate shutter_env
+conda create -n Async-MultiModal-Graph python=3.10
+conda activate Async-MultiModal-Graph
